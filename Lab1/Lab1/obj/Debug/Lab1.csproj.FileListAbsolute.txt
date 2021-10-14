@@ -8,3 +8,13 @@ E:\Университет\IV курс\I семестр\Зачеты\Защита
 E:\Университет\IV курс\I семестр\Зачеты\Защита информации\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
 E:\Университет\IV курс\I семестр\Зачеты\Защита информации\Lab1\Lab1\obj\Debug\Lab1.exe
 E:\Университет\IV курс\I семестр\Зачеты\Защита информации\Lab1\Lab1\obj\Debug\Lab1.pdb
+E:\Университет\IV курс\I семестр\Зачеты\Защита информации\Information-Security_Lab1\Lab1\Lab1\bin\Debug\Lab1.exe.config
+E:\Университет\IV курс\I семестр\Зачеты\Защита информации\Information-Security_Lab1\Lab1\Lab1\bin\Debug\Lab1.exe
+E:\Университет\IV курс\I семестр\Зачеты\Защита информации\Information-Security_Lab1\Lab1\Lab1\bin\Debug\Lab1.pdb
+E:\Университет\IV курс\I семестр\Зачеты\Защита информации\Information-Security_Lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+E:\Университет\IV курс\I семестр\Зачеты\Защита информации\Information-Security_Lab1\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+E:\Университет\IV курс\I семестр\Зачеты\Защита информации\Information-Security_Lab1\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+E:\Университет\IV курс\I семестр\Зачеты\Защита информации\Information-Security_Lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+E:\Университет\IV курс\I семестр\Зачеты\Защита информации\Information-Security_Lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+E:\Университет\IV курс\I семестр\Зачеты\Защита информации\Information-Security_Lab1\Lab1\Lab1\obj\Debug\Lab1.exe
+E:\Университет\IV курс\I семестр\Зачеты\Защита информации\Information-Security_Lab1\Lab1\Lab1\obj\Debug\Lab1.pdb
